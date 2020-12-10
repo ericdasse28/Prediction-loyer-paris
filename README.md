@@ -1,2 +1,4 @@
-# Prediction-loyer-paris
-Sur ce projet, j'explore des données concernant les loyers sur Paris (centre) afin de construire un modèle de Machine Learning pour prédire un loyer en fonction de la surface et de l'arrondissement du logement
+# Prédiction de loyer sur Paris
+
+Ici on se place dans le contexte d'une agence immobilière qui veut prédire les loyers des différents arrondissements de Paris.
+Les données utilisées proviennent d'un dataset contenant la surface, l'arrondissement et le prix de différents logements sur Paris
